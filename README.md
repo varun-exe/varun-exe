@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Varun Tejas  
 
-🎓 A **Computer Science Engineering Graduate** passionate about **AI, Machine Learning, and Web Development**.  
+🎓 A **Computer Science Engineering Graduate** passionate about **AI, Machine Learning, Data Analytics, and Web Development**.  
 💡 Hands-on experience in **NLP, data visualization, RAG pipelines, and AI frameworks**.  
 📍 Based in **Bangalore, India** | 📫 **varuntejas2003@gmail.com**  
 
